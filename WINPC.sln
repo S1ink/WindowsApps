@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Windowed", "Windowed\Window
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exporter", "Exporter\Exporter.vcxproj", "{D525712A-0AD2-4B8F-A502-B5044846A4FF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{2354E6E1-4C05-4BD7-B429-3AB9B0FAF7EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{D525712A-0AD2-4B8F-A502-B5044846A4FF}.Release|x64.Build.0 = Release|x64
 		{D525712A-0AD2-4B8F-A502-B5044846A4FF}.Release|x86.ActiveCfg = Release|Win32
 		{D525712A-0AD2-4B8F-A502-B5044846A4FF}.Release|x86.Build.0 = Release|Win32
+		{2354E6E1-4C05-4BD7-B429-3AB9B0FAF7EA}.Debug|x64.ActiveCfg = Debug|x64
+		{2354E6E1-4C05-4BD7-B429-3AB9B0FAF7EA}.Debug|x64.Build.0 = Debug|x64
+		{2354E6E1-4C05-4BD7-B429-3AB9B0FAF7EA}.Debug|x86.ActiveCfg = Debug|Win32
+		{2354E6E1-4C05-4BD7-B429-3AB9B0FAF7EA}.Debug|x86.Build.0 = Debug|Win32
+		{2354E6E1-4C05-4BD7-B429-3AB9B0FAF7EA}.Release|x64.ActiveCfg = Release|x64
+		{2354E6E1-4C05-4BD7-B429-3AB9B0FAF7EA}.Release|x64.Build.0 = Release|x64
+		{2354E6E1-4C05-4BD7-B429-3AB9B0FAF7EA}.Release|x86.ActiveCfg = Release|Win32
+		{2354E6E1-4C05-4BD7-B429-3AB9B0FAF7EA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
