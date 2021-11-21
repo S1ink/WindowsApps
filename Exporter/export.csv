@@ -1,2 +1,8 @@
-name,source,destination
-test,"Z:\TEMP\src","Z:\TEMP\dest"
+name,source,destination,options
+2019-updated,C:\USER\Robotics\2019\2019-Destination-Deep-Space-Updated,Z:\Files\Code\Robotics\2019\2019-Destination-Deep-Space-Updated,ROBOTICS
+2020-src,C:\USER\Robotics\2020,Z:\Files\Code\Robotics\2020,
+2021-comp,C:\USER\Robotics\2021\2021 At Home Challenge,Z:\Files\Code\Robotics\2021\2021 At Home Challenge,ROBOTICS
+2021-sloppy,C:\USER\Robotics\2021\2021 Sloppy Copy,Z:\Files\Code\Robotics\2021\2021 Sloppy Copy,ROBOTICS
+2021-cpp,C:\USER\Robotics\2021\CPP-Testing,Z:\Files\Code\Robotics\2021\CPP-Testing,ROBOTICS
+2021-summer,C:\USER\Robotics\2021\Summer2021,Z:\Files\Code\Robotics\2021\Summer2021,ROBOTICS
+2021-tshirt,C:\USER\Robotics\2021\T-Shirt Cannon,Z:\Files\Code\Robotics\2021\T-Shirt Cannon,ROBOTICS

@@ -9,7 +9,20 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exporter", "Exporter\Export
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{2354E6E1-4C05-4BD7-B429-3AB9B0FAF7EA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Shared", "Shared\Shared.vcxitems", "{AC30625A-3CDE-4A42-8FFE-C9EF592C9CB7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Extended STD", "..\RPI\Cross-Platform\Cross-Platform.vcxitems", "{D280E1D2-6D39-43FE-AF83-DAE7351D5770}"
+EndProject
 Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		..\RPI\Cross-Platform\Cross-Platform.vcxitems*{2354e6e1-4c05-4bd7-b429-3ab9b0faf7ea}*SharedItemsImports = 4
+		Shared\Shared.vcxitems*{2354e6e1-4c05-4bd7-b429-3ab9b0faf7ea}*SharedItemsImports = 4
+		..\RPI\Cross-Platform\Cross-Platform.vcxitems*{2648c260-c3ab-4db4-99e8-c2e12802a37f}*SharedItemsImports = 4
+		Shared\Shared.vcxitems*{ac30625a-3cde-4a42-8ffe-c9ef592c9cb7}*SharedItemsImports = 9
+		..\RPI\Cross-Platform\Cross-Platform.vcxitems*{d280e1d2-6d39-43fe-af83-dae7351d5770}*SharedItemsImports = 9
+		..\RPI\Cross-Platform\Cross-Platform.vcxitems*{d525712a-0ad2-4b8f-a502-b5044846a4ff}*SharedItemsImports = 4
+		Shared\Shared.vcxitems*{d525712a-0ad2-4b8f-a502-b5044846a4ff}*SharedItemsImports = 4
+	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
 		Debug|x86 = Debug|x86
